@@ -1,46 +1,46 @@
 const strings = {
-  website: "https://pl.pattern.monster",
+  website: "https://ca.pattern.monster",
   title: "Pattern Monster",
   description:
-    "Prosty generator szablonów online do tworzenia powtarzalnych wzorów SVG.",
-  description2: "Przyspiesz swoją stronę bez uszczerbku na jakości obrazów.",
+    "Un generador de patrons en línia senzill per crear patrons SVG repetibles.",
+  description2: "Acceleri el seu lloc web sense comprometre la qualitat de la imatge.",
   description3: 
-    "Idealne jako tło strony internetowej, wzór na odzieży, marki, opakowań i innych.",
+    "Perfecte per a fons de pàgines web, roba, marques, disseny d'envasos i més.",
   keywords:
-    "wzory svg, szablony, tła svg, tapeta wektorowa, generator wzorców, twórca wzorów",
+    "patrons svg, patrons, fons svg, fons de pantalla vectorial, generador de patrons, creador de patrons",
   pages: [
     {
       page: "index",
-      title: "Generator Szablonów SVG",
+      title: "Generador de patrons SVG",
       keywords: "",
       description: "",
       image: "",
     },
     {
       page: "changelog",
-      title: "Dziennik zmian",
-      keywords: "dziennik zmian",
+      title: "Registre de canvis",
+      keywords: "registre de canvis",
       description: "Changelog for Pattern Monster.",
       image: "",
     },
     {
       page: "downloads",
-      title: "Pobrań",
-      keywords: "pobrań",
+      title: "Descàrregues",
+      keywords: "descàrregues",
       description: "Downloads for Pattern Monster.",
       image: "",
     },
     {
       page: "features",
-      title: "Funkcje",
-      keywords: "funkcje",
+      title: "Característiques",
+      keywords: "característiques",
       description: "Features for Pattern Monster.",
       image: "",
     },
     {
       page: "privacy-policy",
-      title: "Polityka Prywatności",
-      keywords: "polityka prywatności",
+      title: "Política de Privadesa",
+      keywords: "política de privadesa",
       description: "Privacy Policy for Pattern Monster.",
       image: "",
     },
@@ -52,7 +52,7 @@ const strings = {
       image: "",
     },
   ],
-  versions: [{"lang":"en","name":"English","website":"https://pattern.monster"},{"lang":"de","name":"Deutsch","website":"https://de.pattern.monster"},{"lang":"pl","name":"Polski","website":"https://pl.pattern.monster"},{"lang":"tr","name":"Türkçe","website":"https://tr.pattern.monster"},{"lang":"es","name":"Español","website":"https://es.pattern.monster"},{"lang":"it","name":"Italiano","website":"https://it.pattern.monster"},{"lang":"ro","name":"Română","website":"https://ro.pattern.monster"},{"lang":"fr","name":"Français","website":"https://fr.pattern.monster"},{"lang":"ar","name":"العربية","website":"https://ar.pattern.monster"},{"lang":"pt","name":"Português","website":"https://pt.pattern.monster"},{"lang":"zh-cn","name":"中文(简体)","website":"https://cn.pattern.monster"},{"lang":"nl","name":"Nederlands","website":"https://nl.pattern.monster"},{"lang":"sv","name":"Svenska","website":"https://sv.pattern.monster"},{"lang":"uk","name":"Українська","website":"https://uk.pattern.monster"},{"lang":"ru","name":"Русский","website":"https://ru.pattern.monster"},{"lang":"hu","name":"Magyar","website":"https://hu.pattern.monster"},{"lang":"af","name":"Afrikaans","website":"https://af.pattern.monster"}],
+  versions: [{"lang":"en","name":"English","website":"https://pattern.monster"},{"lang":"de","name":"Deutsch","website":"https://de.pattern.monster"},{"lang":"pl","name":"Polski","website":"https://pl.pattern.monster"},{"lang":"tr","name":"Türkçe","website":"https://tr.pattern.monster"},{"lang":"es","name":"Español","website":"https://es.pattern.monster"},{"lang":"it","name":"Italiano","website":"https://it.pattern.monster"},{"lang":"ro","name":"Română","website":"https://ro.pattern.monster"},{"lang":"fr","name":"Français","website":"https://fr.pattern.monster"},{"lang":"ar","name":"العربية","website":"https://ar.pattern.monster"},{"lang":"pt","name":"Português","website":"https://pt.pattern.monster"},{"lang":"zh-cn","name":"中文(简体)","website":"https://cn.pattern.monster"},{"lang":"nl","name":"Nederlands","website":"https://nl.pattern.monster"},{"lang":"sv","name":"Svenska","website":"https://sv.pattern.monster"},{"lang":"uk","name":"Українська","website":"https://uk.pattern.monster"},{"lang":"ru","name":"Русский","website":"https://ru.pattern.monster"},{"lang":"hu","name":"Magyar","website":"https://hu.pattern.monster"},{"lang":"af","name":"Afrikaans","website":"https://af.pattern.monster"},{"lang":"ca","name":"Català","website":"https://ca.pattern.monster"},{"lang":"zh-tw","name":"中文 (繁體)","website":"https://tw.pattern.monster"}],
   langs:[{"id":"af","name":"Afrikaans","code":"af","translation":100,"approval":100},{"id":"ar","name":"Arabic","code":"ar","translation":100,"approval":100},{"id":"ca","name":"Catalan","code":"ca","translation":99,"approval":99},{"id":"zh-CN","name":"Chinese Simplified","code":"zh-cn","translation":100,"approval":100},{"id":"zh-TW","name":"Chinese Traditional","code":"zh-tw","translation":100,"approval":100},{"id":"cs","name":"Czech","code":"cs","translation":100,"approval":100},{"id":"da","name":"Danish","code":"da","translation":99,"approval":99},{"id":"nl","name":"Dutch","code":"nl","translation":100,"approval":100},{"id":"fi","name":"Finnish","code":"fi","translation":99,"approval":99},{"id":"fr","name":"French","code":"fr","translation":100,"approval":100},{"id":"de","name":"German","code":"de","translation":100,"approval":100},{"id":"el","name":"Greek","code":"el","translation":2,"approval":2},{"id":"he","name":"Hebrew","code":"he","translation":15,"approval":15},{"id":"hu","name":"Hungarian","code":"hu","translation":99,"approval":99},{"id":"id","name":"Indonesian","code":"id","translation":0,"approval":0},{"id":"it","name":"Italian","code":"it","translation":100,"approval":100},{"id":"ja","name":"Japanese","code":"ja","translation":3,"approval":3},{"id":"ko","name":"Korean","code":"ko","translation":2,"approval":2},{"id":"nb","name":"Norwegian Bokmal","code":"nb","translation":2,"approval":2},{"id":"nn-NO","name":"Norwegian Nynorsk","code":"nn-no","translation":2,"approval":2},{"id":"pl","name":"Polish","code":"pl","translation":100,"approval":100},{"id":"pt-PT","name":"Portuguese","code":"pt","translation":7,"approval":7},{"id":"pt-BR","name":"Portuguese, Brazilian","code":"pt-br","translation":100,"approval":100},{"id":"ro","name":"Romanian","code":"ro","translation":100,"approval":100},{"id":"ru","name":"Russian","code":"ru","translation":99,"approval":99},{"id":"sr","name":"Serbian (Cyrillic)","code":"sr","translation":2,"approval":2},{"id":"es-ES","name":"Spanish","code":"es","translation":100,"approval":100},{"id":"sv-SE","name":"Swedish","code":"sv","translation":100,"approval":100},{"id":"tr","name":"Turkish","code":"tr","translation":100,"approval":100},{"id":"uk","name":"Ukrainian","code":"uk","translation":100,"approval":100},{"id":"vi","name":"Vietnamese","code":"vi","translation":5,"approval":5}]
 };
 
